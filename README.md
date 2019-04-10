@@ -1,2 +1,3 @@
 # swril_courses
-These swirl R courses were created for students to learn R programming and data science
+This swirl R course was created for students to learn R programming and data science
+The course includes two section: R programming and Data Analysis. 
